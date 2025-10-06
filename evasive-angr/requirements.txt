@@ -1,0 +1,8 @@
+angr
+pyvex
+cle
+claripy
+capstone
+lief
+networkx
+tabulate
